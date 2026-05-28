@@ -3569,3 +3569,325 @@ Session ID: ff4b85093ca2a8333f970ef3317e59f9
 [INFO] - [28-05-2026 17:38:35] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case verifyErrorMessageWhenAccountCreatedBefore passed.
 [INFO] - [28-05-2026 17:38:43] [main] [com.automationexercises.FileUtils] - Target File Path: "C:\Users\ahmed\IdeaProjects\Project Automation\test-output\reports\index.html", file was renamed to "AllureReport-28-05-2026_17-38-43.html".
 [INFO] - [28-05-2026 17:38:44] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution finished.
+[INFO] - [28-05-2026 23:01:01] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution started.
+[ERROR] - [28-05-2026 23:01:01] [main] [com.automationexercises.FileUtils] - Error occurred while force deleting file: C:\Users\ahmed\IdeaProjects\Project Automationtest-output\logs\logs.log C:\Users\ahmed\IdeaProjects\Project Automationtest-output\logs\logs.log
+[INFO] - [28-05-2026 23:01:01] [main] [com.automationexercises.listeners.TestNGListeners] - directories cleaned.
+[INFO] - [28-05-2026 23:01:01] [main] [com.automationexercises.FileUtils] - Directory created at: test-output/screenshots/
+[INFO] - [28-05-2026 23:01:01] [main] [com.automationexercises.FileUtils] - Directory created at: test-output/recordings/
+[INFO] - [28-05-2026 23:01:01] [main] [com.automationexercises.FileUtils] - Directory created at: src/test/resources/downloads/
+[INFO] - [28-05-2026 23:01:01] [main] [com.automationexercises.listeners.TestNGListeners] - directories created.
+[INFO] - [28-05-2026 23:01:01] [main] [com.automationexercises.listeners.TestNGListeners] - Properties loaded.
+[INFO] - [28-05-2026 23:01:01] [main] [com.automationexercises.report.AllureEnvironmentManger] - Allure environment variables set.
+[INFO] - [28-05-2026 23:01:04] [main] [com.automationexercises.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [28-05-2026 23:01:04] [main] [com.automationexercises.listeners.TestNGListeners] - Allure environment variables set.
+[INFO] - [28-05-2026 23:01:05] [main] [com.automationexercises.drivers.GUIDriver] - Initializing WebDriver for browser: Edge
+[INFO] - [28-05-2026 23:01:05] [main] [com.automationexercises.drivers.GUIDriver] - Initializing WebDriver for browser:  EDGE
+[INFO] - [28-05-2026 23:01:10] [main] [com.automationexercises.utils.actions.BrowserActions] - Navigating to URL:  https://automationexercise.com/
+[INFO] - [28-05-2026 23:01:11] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case addProductToCartWithoutLogin started.
+[INFO] - [28-05-2026 23:01:49] [main] [com.automationexercises.utils.actions.BrowserActions] - Navigating to URL:  https://automationexercise.com//products
+[INFO] - [28-05-2026 23:01:49] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (786, 643)
+[INFO] - [28-05-2026 23:01:49] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (786, 643)
+[INFO] - [28-05-2026 23:01:49] [main] [com.automationexercises.utils.actions.ElementActions] - Clicked on element: By.xpath: //div[@class='features_items']//div[@class='productinfo text-center']/p[.='Men Tshirt']
+[INFO] - [28-05-2026 23:01:49] [main] [com.automationexercises.utils.actions.ElementActions] - Clicked on element:  By.xpath: //div[@class='features_items']//div[@class='productinfo text-center']/p[.='Men Tshirt']//following-sibling::a
+[INFO] - [28-05-2026 23:01:49] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.cssSelector: .modal-body>p  is:  
+[INFO] - [28-05-2026 23:01:49] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.cssSelector: .modal-body>p  is:  
+[INFO] - [28-05-2026 23:01:50] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.cssSelector: .modal-body>p  is:  
+[INFO] - [28-05-2026 23:01:50] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.cssSelector: .modal-body>p  is:  
+[INFO] - [28-05-2026 23:01:50] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.cssSelector: .modal-body>p  is:  
+[INFO] - [28-05-2026 23:01:50] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.cssSelector: .modal-body>p  is:  
+[INFO] - [28-05-2026 23:01:50] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.cssSelector: .modal-body>p  is:  Your product has been added to cart.
+[INFO] - [28-05-2026 23:01:50] [main] [com.automationexercises.pages.ProductsPage] - Validating item added label:  Your product has been added to cart.
+[INFO] - [28-05-2026 23:01:50] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case addProductToCartWithoutLogin passed.
+[INFO] - [28-05-2026 23:01:59] [main] [com.automationexercises.FileUtils] - Target File Path: "C:\Users\ahmed\IdeaProjects\Project Automation\test-output\reports\index.html", file was renamed to "AllureReport-28-05-2026_23-01-59.html".
+[INFO] - [28-05-2026 23:02:00] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution finished.
+[INFO] - [28-05-2026 23:02:11] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution started.
+[ERROR] - [28-05-2026 23:02:11] [main] [com.automationexercises.FileUtils] - Error occurred while force deleting file: C:\Users\ahmed\IdeaProjects\Project Automationtest-output\logs\logs.log C:\Users\ahmed\IdeaProjects\Project Automationtest-output\logs\logs.log
+[INFO] - [28-05-2026 23:02:11] [main] [com.automationexercises.listeners.TestNGListeners] - directories cleaned.
+[INFO] - [28-05-2026 23:02:11] [main] [com.automationexercises.FileUtils] - Directory created at: test-output/screenshots/
+[INFO] - [28-05-2026 23:02:11] [main] [com.automationexercises.FileUtils] - Directory created at: test-output/recordings/
+[INFO] - [28-05-2026 23:02:11] [main] [com.automationexercises.FileUtils] - Directory created at: src/test/resources/downloads/
+[INFO] - [28-05-2026 23:02:11] [main] [com.automationexercises.listeners.TestNGListeners] - directories created.
+[INFO] - [28-05-2026 23:02:11] [main] [com.automationexercises.listeners.TestNGListeners] - Properties loaded.
+[INFO] - [28-05-2026 23:02:11] [main] [com.automationexercises.report.AllureEnvironmentManger] - Allure environment variables set.
+[INFO] - [28-05-2026 23:02:13] [main] [com.automationexercises.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [28-05-2026 23:02:13] [main] [com.automationexercises.listeners.TestNGListeners] - Allure environment variables set.
+[INFO] - [28-05-2026 23:02:14] [main] [com.automationexercises.drivers.GUIDriver] - Initializing WebDriver for browser: Edge
+[INFO] - [28-05-2026 23:02:14] [main] [com.automationexercises.drivers.GUIDriver] - Initializing WebDriver for browser:  EDGE
+[INFO] - [28-05-2026 23:02:23] [main] [com.automationexercises.utils.actions.BrowserActions] - Navigating to URL:  https://automationexercise.com/
+[INFO] - [28-05-2026 23:02:23] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case searchForProductWithoutLogin started.
+[INFO] - [28-05-2026 23:02:24] [main] [com.automationexercises.utils.actions.BrowserActions] - Navigating to URL:  https://automationexercise.com//products
+[INFO] - [28-05-2026 23:02:25] [main] [com.automationexercises.utils.actions.ElementActions] - Typed text:  Blue Top  into element:  By.id: search_product
+[INFO] - [28-05-2026 23:02:26] [main] [com.automationexercises.utils.actions.ElementActions] - Clicked on element:  By.id: submit_search
+[INFO] - [28-05-2026 23:02:26] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:26] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:26] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:26] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:27] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:27] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:27] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:27] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:27] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:27] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:27] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:27] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:28] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:29] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:30] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:31] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:31] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:31] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:31] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:31] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:31] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:31] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:31] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:32] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:33] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:33] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:33] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:33] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:33] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:33] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:33] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:33] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:34] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:34] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:34] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:34] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:34] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:34] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:34] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:34] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:35] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:36] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:36] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:36] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:36] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:02:36] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case searchForProductWithoutLogin failed.
+[INFO] - [28-05-2026 23:02:45] [main] [com.automationexercises.FileUtils] - Target File Path: "C:\Users\ahmed\IdeaProjects\Project Automation\test-output\reports\index.html", file was renamed to "AllureReport-28-05-2026_23-02-45.html".
+[INFO] - [28-05-2026 23:02:46] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution finished.
+[INFO] - [28-05-2026 23:04:57] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution started.
+[ERROR] - [28-05-2026 23:04:57] [main] [com.automationexercises.FileUtils] - Error occurred while force deleting file: C:\Users\ahmed\IdeaProjects\Project Automationtest-output\logs\logs.log C:\Users\ahmed\IdeaProjects\Project Automationtest-output\logs\logs.log
+[INFO] - [28-05-2026 23:04:57] [main] [com.automationexercises.listeners.TestNGListeners] - directories cleaned.
+[INFO] - [28-05-2026 23:04:57] [main] [com.automationexercises.FileUtils] - Directory created at: test-output/screenshots/
+[INFO] - [28-05-2026 23:04:57] [main] [com.automationexercises.FileUtils] - Directory created at: test-output/recordings/
+[INFO] - [28-05-2026 23:04:57] [main] [com.automationexercises.FileUtils] - Directory created at: src/test/resources/downloads/
+[INFO] - [28-05-2026 23:04:57] [main] [com.automationexercises.listeners.TestNGListeners] - directories created.
+[INFO] - [28-05-2026 23:04:57] [main] [com.automationexercises.listeners.TestNGListeners] - Properties loaded.
+[INFO] - [28-05-2026 23:04:57] [main] [com.automationexercises.report.AllureEnvironmentManger] - Allure environment variables set.
+[INFO] - [28-05-2026 23:05:00] [main] [com.automationexercises.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [28-05-2026 23:05:00] [main] [com.automationexercises.listeners.TestNGListeners] - Allure environment variables set.
+[INFO] - [28-05-2026 23:05:00] [main] [com.automationexercises.drivers.GUIDriver] - Initializing WebDriver for browser: Edge
+[INFO] - [28-05-2026 23:05:00] [main] [com.automationexercises.drivers.GUIDriver] - Initializing WebDriver for browser:  EDGE
+[INFO] - [28-05-2026 23:05:05] [main] [com.automationexercises.utils.actions.BrowserActions] - Navigating to URL:  https://automationexercise.com/
+[INFO] - [28-05-2026 23:05:05] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case searchForProductWithoutLogin started.
+[INFO] - [28-05-2026 23:05:05] [main] [com.automationexercises.utils.actions.BrowserActions] - Navigating to URL:  https://automationexercise.com//products
+[INFO] - [28-05-2026 23:05:06] [main] [com.automationexercises.utils.actions.ElementActions] - Typed text:  Blue Top  into element:  By.id: search_product
+[INFO] - [28-05-2026 23:06:00] [main] [com.automationexercises.utils.actions.ElementActions] - Clicked on element:  By.id: submit_search
+[INFO] - [28-05-2026 23:06:00] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:00] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:00] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:01] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:02] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:02] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:02] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:02] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:03] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:03] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:03] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:03] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:03] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:04] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:04] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:04] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:04] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:04] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:05] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:05] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:05] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:05] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:05] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:05] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:06] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:06] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:06] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:06] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:06] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:07] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:07] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:07] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:07] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:08] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:08] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:08] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:08] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:08] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:08] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:09] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:09] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:09] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:09] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:09] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:10] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:10] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:10] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:10] [main] [com.automationexercises.utils.actions.ElementActions] - Text retrieved from element:  By.xpath: //div[@class='features_items']//div[@class='overlay-content']/p[.='Blue Top']  is:  
+[INFO] - [28-05-2026 23:06:10] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case searchForProductWithoutLogin failed.
+[INFO] - [28-05-2026 23:06:26] [main] [com.automationexercises.FileUtils] - Target File Path: "C:\Users\ahmed\IdeaProjects\Project Automation\test-output\reports\index.html", file was renamed to "AllureReport-28-05-2026_23-06-26.html".
+[INFO] - [28-05-2026 23:06:27] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution finished.
+[INFO] - [28-05-2026 23:08:45] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution started.
+[ERROR] - [28-05-2026 23:08:45] [main] [com.automationexercises.FileUtils] - Error occurred while force deleting file: C:\Users\ahmed\IdeaProjects\Project Automationtest-output\logs\logs.log C:\Users\ahmed\IdeaProjects\Project Automationtest-output\logs\logs.log
+[INFO] - [28-05-2026 23:08:45] [main] [com.automationexercises.listeners.TestNGListeners] - directories cleaned.
+[INFO] - [28-05-2026 23:08:45] [main] [com.automationexercises.FileUtils] - Directory created at: test-output/screenshots/
+[INFO] - [28-05-2026 23:08:45] [main] [com.automationexercises.FileUtils] - Directory created at: test-output/recordings/
+[INFO] - [28-05-2026 23:08:45] [main] [com.automationexercises.FileUtils] - Directory created at: src/test/resources/downloads/
+[INFO] - [28-05-2026 23:08:45] [main] [com.automationexercises.listeners.TestNGListeners] - directories created.
+[INFO] - [28-05-2026 23:08:45] [main] [com.automationexercises.listeners.TestNGListeners] - Properties loaded.
+[INFO] - [28-05-2026 23:08:45] [main] [com.automationexercises.report.AllureEnvironmentManger] - Allure environment variables set.
+[INFO] - [28-05-2026 23:08:48] [main] [com.automationexercises.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [28-05-2026 23:08:48] [main] [com.automationexercises.listeners.TestNGListeners] - Allure environment variables set.
+[INFO] - [28-05-2026 23:08:48] [main] [com.automationexercises.drivers.GUIDriver] - Initializing WebDriver for browser: Edge
+[INFO] - [28-05-2026 23:08:48] [main] [com.automationexercises.drivers.GUIDriver] - Initializing WebDriver for browser:  EDGE
+[INFO] - [28-05-2026 23:08:57] [main] [com.automationexercises.utils.actions.BrowserActions] - Navigating to URL:  https://automationexercise.com/
+[INFO] - [28-05-2026 23:08:57] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case searchForProductWithoutLogin started.
+[INFO] - [28-05-2026 23:08:58] [main] [com.automationexercises.utils.actions.BrowserActions] - Navigating to URL:  https://automationexercise.com//products
+[INFO] - [28-05-2026 23:08:59] [main] [com.automationexercises.utils.actions.ElementActions] - Typed text:  Blue Top  into element:  By.id: search_product
+[INFO] - [28-05-2026 23:09:00] [main] [com.automationexercises.utils.actions.ElementActions] - Clicked on element:  By.id: submit_search
+[INFO] - [28-05-2026 23:09:01] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:01] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:01] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:01] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:01] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:01] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:02] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:02] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:02] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:02] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:02] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:02] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:03] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:03] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:03] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:03] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:03] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:03] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:03] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:03] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:04] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:04] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:04] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:04] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:05] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:05] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:05] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:05] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:05] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:05] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:06] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:07] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:08] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:09] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - initialLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:10] [main] [com.automationexercises.utils.actions.ElementActions] - finalLocation: (498, 478)
+[INFO] - [28-05-2026 23:09:11] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case searchForProductWithoutLogin failed.
+[INFO] - [28-05-2026 23:09:20] [main] [com.automationexercises.FileUtils] - Target File Path: "C:\Users\ahmed\IdeaProjects\Project Automation\test-output\reports\index.html", file was renamed to "AllureReport-28-05-2026_23-09-20.html".
+[INFO] - [28-05-2026 23:09:21] [main] [com.automationexercises.listeners.TestNGListeners] - TestNG execution finished.

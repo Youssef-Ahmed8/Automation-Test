@@ -1,1 +1,1 @@
-[{"uid":"8f49bd3cd52f4e98","name":"verifyErrorMessageWhenAccountCreatedBefore","time":{"start":1779979075025,"stop":1779979115233,"duration":40208},"status":"passed","severity":"normal"}]
+[{"uid":"f4c46fc234b40335","name":"searchForProductWithoutLogin","time":{"start":1779998937658,"stop":1779998951012,"duration":13354},"status":"broken","severity":"critical"}]
