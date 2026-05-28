@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Search for a product and validate its details","13354","searchForProductWithoutLogin","Default Suite","2026-05-28","broken","2026-05-28","com.automationexercises.tests.ui.ProductTest","Project Automation","com.automationexercises.tests.ui.ProductTest","searchForProductWithoutLogin"
+"Search for a product and validate its details","83417","searchForProductWithoutLogin","Default Suite","2026-05-28","broken","2026-05-28","com.automationexercises.tests.ui.ProductTest","Project Automation","com.automationexercises.tests.ui.ProductTest","searchForProductWithoutLogin"
