@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","40208","verifyErrorMessageWhenAccountCreatedBefore","Default Suite","2026-05-28","passed","2026-05-28","com.automationexercises.tests.ui.RegisterTest","Project Automation","com.automationexercises.tests.ui.RegisterTest","verifyErrorMessageWhenAccountCreatedBefore"

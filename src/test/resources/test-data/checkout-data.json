@@ -1,0 +1,41 @@
+{
+  "name": "Automation_checkout",
+  "email": "automationcheckout_",
+  "titleMale": "Mr",
+  "titleFemale": "Mrs",
+  "password": "P@ssw0rd",
+  "day": "1",
+  "month": "January",
+  "year": "2000",
+  "firstName": "Automation_FirstName",
+  "lastName": "Automation_LastName",
+  "company": "Automation_Company",
+  "address1": "Automation_Address1",
+  "address2": "Automation_Address2",
+  "city": "Automation_City",
+  "state": "Automation_State",
+  "zipcode": "12345",
+  "country": "United States",
+  "mobilePhone": "1234567890",
+  "product":
+  {
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "quantity": "1",
+    "total": "Rs. 400"
+  },
+  "card": {
+    "cardName":"Automation Card",
+    "cardNumber": "1234567890123456",
+    "cardCvv": "123",
+    "exMonth":"12",
+    "exYear": "20236"
+  },
+  "messages": {
+    "cartAdded": "Your product has been added to cart.",
+    "payment": "ORDER PLACED!"
+
+  },
+  "invoiceName": "invoice.txt"
+
+}
